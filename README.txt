@@ -1,5 +1,5 @@
 git add README.txt
 
-git commit README.txt
+git commit
 
-git push README.txt
+git push
