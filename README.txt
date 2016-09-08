@@ -1,1 +1,5 @@
-http://www.alexkras.com/19-git-tips-for-everyday-use/
+git add README.txt
+
+git commit README.txt
+
+git push README.txt
